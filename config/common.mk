@@ -51,7 +51,7 @@ endif
 PRODUCT_PACKAGES += \
     Terminal \
     LatinIME \
-    Launcher3 \
+    NexusLauncher \
     LiveWallpapers \
     LiveWallpapersPicker \
     Stk \
